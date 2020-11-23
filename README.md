@@ -1,9 +1,9 @@
-## Instrucciones para visualizar el archivo:
+## Instrucciones para ejecutar el proyecto:
 
 - En la consola instalar las dependencias:  
 `npm install`
 
-- Luego, en la consola ejecutar el comando:  
+- Luego, ejecutar el comando:  
 `npm run startdev`  
 
 - Finalmente, en tu navegador ejecuta:  
